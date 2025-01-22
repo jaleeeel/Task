@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All About Myself</title>
+</head>
+<body style="background-color: blanchedalmond;">
+    <header id="top">
+        <h1 style="text-align: center; color: blue;"> All About Myself</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="#about">About Myself</a></li>
+                <li><a href="#life">My Lifestory</a></li>
+                <li><a href="#hobbies">Hobbies</a></li>
+                <li><a href="#fave">Favourite</a></li>
+                <li><a href="#friends">Friends</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <hr>
+    <main>
+        <article id="about">
+            <section id="about_myself">
+                <h2>About Myself</h2>
+                <p>
+
+                </p>
+                <figure>
+                    <img src="images/me.jpg" alt="myself" height="250">
+                    <figcaption style="font-weight: bold;">Me</figcaption>
+                    <p>I'm Derek Jaleel Anciano 26 years of age currently studying of Bachelor of Science in Information Technology (BSIT). Residing at Barangay Sta.Ana, Nasipit, Agusan Del Norte.Derek is a kind person.</p>
+
+
+                </figure>
+            </section>
+        </article>
+
+        <hr>
+
+        <article id="life">
+            <section>
+                <h2>My Lifestory</h2>
+                <figure>
+                    <img src="images/childhood.jpg" alt="childhood" height="250">
+                    <figcaption style="font-weight: bold;">Childhood Experience</figcaption>
+                    <p>I grew up in a peaceful that can you feel the sea breeze and fresh air the place called Bislig City, from the province of Surigao del Sur. My neighbor called me "Dodong" because of my good attitude.</p>
+                </figure>
+            </section>
+            
+            <section>
+                <figure>
+                    <img src="images/teen.jpg" alt="teenage" height="250">
+                    <figcaption style="font-weight: bold;">Teenage Experience</figcaption>
+                    <p>As the years go by during my teenage years I used to travel everywhere just like now.</p>
+                </figure>
+            </section>
+
+            <section>
+                <figure>
+                    <img src="images/adult.jpg" alt="adult" height="250">
+                    <figcaption style="font-weight: bold;">Adult Experience</figcaption>
+                    <p>At this age slowly fading the happy life and change to adult life or the real life as an adult.</p>
+                </figure>
+            </section>
+        </article>
+
+        <hr>
+
+        <article id="hobbies">
+            <section>
+                <h2>Hobbies</h2>
+                <figure>
+                    <img src="images/indoor.jpg" alt="indoor" height="250">
+                    <figcaption style="font-weight: bold;">Indoor Hobbies</figcaption>
+                    <p>As usual the picture AHAHAHAHAHAHA</p>
+                </figure>
+                </section>
+            <section>
+                <figure>
+                    <img src="images/outdoor.jpg" alt="outdoor" height="250">
+                    <figcaption style="font-weight: bold;">Outdoor Hobbies</figcaption>
+                    <p>Wala nakoy ma upload lain sir naguba ako selpon HAHAHAHAHAHHA</p>
+                </figure>
+            </section>
+
+        </article>
+
+        <hr>
+
+        <article id="fave">
+            <section>
+                <h2>Favourites</h2>
+                <figure>
+                    <img src="images/parent.jpg" alt="parent" height="250">
+                    <figcaption style="font-weight: bold;">My Parents</figcaption>
+                    <p>This is my parents, my favourite person in my life. They are the reason why I study well, I want them to treat and travel to unwind or relax.</p>
+                </figure>
+            </section>
+            <section>
+                <figure>
+                    <img src="images/humba.jpg" alt="food" height="250">
+                    <figcaption style="font-weight: bold;">Humba</figcaption>
+
+                </figure>
+            </section>
+        </article>
+
+        <hr>
+
+        <article id="friends">
+            <section>
+                <h2>Childhood Friends</h2>
+                <figure>
+                    <img src="" alt="childhood">
+                </figure>
+            </section>
+            <section>
+                <h2>Closest Friend</h2>
+                <figure>
+                    <img src="" alt="closest">
+                </figure>
+            </section>
+
+        </article>
+
+        <hr>
+
+        <footer style="text-align: center;">
+            <p style="font-weight: bold;">All Rights Reserved &copy; DJ Anciano 2025</p>
+            <a href="#top" style="text-align: center;">Back to Top</a>
+
+        </footer>
+    </main>
+</body>
+</html>
